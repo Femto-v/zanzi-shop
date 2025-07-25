@@ -1,4 +1,4 @@
-# 🛍️ MyShop – Modern Clothing E-Commerce Website
+# 🛍️ ZanziShop – Modern Clothing E-Commerce Website
 
 A full-featured online shopping platform for clothes, built with the latest web technologies.
 
